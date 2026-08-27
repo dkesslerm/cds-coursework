@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o gasolinera Soluciones-20251110/p12_gasolinera.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 /**
  * @file p1_gasolinera.cpp

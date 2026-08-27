@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o impresora Soluciones-20251110/p11_pc_impresora.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 /**
  * @file   prodcons-impresora.cpp

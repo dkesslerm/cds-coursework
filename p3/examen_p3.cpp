@@ -1,5 +1,3 @@
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // mpicxx -std=c++11 -o examen_p3_exe_mpi examen_p3.cpp
 // mpirun -oversubscribe -np 26 ./examen_p3_exe_mpi

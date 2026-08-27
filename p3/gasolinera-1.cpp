@@ -1,7 +1,5 @@
 // mpicxx -std=c++11 -o gasolinera-1_exe_mpi gasolinera-1.cpp
 // mpirun -oversubscribe -np 8 ./gasolinera-1_exe_mpi
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 // Sistemas concurrentes y Distribuidos.

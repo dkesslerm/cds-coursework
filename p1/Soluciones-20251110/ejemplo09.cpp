@@ -1,5 +1,3 @@
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 // -----------------------------------------------------------------------------
 // Sistemas concurrentes y Distribuidos.
 // Seminario 1. Programación Multihebra y Semáforos.

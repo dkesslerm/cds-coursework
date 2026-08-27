@@ -1,7 +1,5 @@
 // mpicxx -std=c++11 -o filosofos_exe_mpi filosofos.cpp
 // mpirun -oversubscribe -np 10 ./filosofos_exe_mpi
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 //

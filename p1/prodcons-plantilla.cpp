@@ -1,5 +1,3 @@
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 #include <iostream>
 #include <cassert>

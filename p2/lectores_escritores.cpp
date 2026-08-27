@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o lectores_escritores lectores_escritores.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 #include <iostream>
 #include <iomanip>

@@ -1,7 +1,5 @@
 // mpicxx -std=c++11 -o prodcons2_exe_mpi prodcons2.cpp
 // mpirun -oversubscribe -np 3 ./prodcons2_exe_mpi
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 //

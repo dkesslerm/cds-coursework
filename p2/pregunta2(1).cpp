@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o impresora p21_pc_impr.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 //

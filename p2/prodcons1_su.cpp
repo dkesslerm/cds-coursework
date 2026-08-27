@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o prodcons1 prodcons1_su.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 //

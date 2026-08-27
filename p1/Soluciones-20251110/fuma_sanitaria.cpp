@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o fuma_sanitaria Soluciones-20251110/fuma_sanitaria.cpp scd.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 #include <algorithm>
 #include <iostream>

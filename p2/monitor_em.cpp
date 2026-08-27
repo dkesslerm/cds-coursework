@@ -1,6 +1,4 @@
 // g++ -std=c++11 -pthread -o ejecutable f1.cpp f2.cpp . . . fn.cpp
-// DNI: 23300373Q
-// Apellidos, Nombre: Kessler Martínez, David
 
 // -----------------------------------------------------------------------------
 //
